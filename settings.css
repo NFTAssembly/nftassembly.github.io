@@ -1,0 +1,146 @@
+
+
+.nav-container{
+    width:100%;
+    margin:auto;
+}
+
+.nav-button-space{
+    padding-left:35px;
+}
+
+.nav-link{
+    color: white!important;
+    font-size:18px;
+    font-family: Poppins;
+    font-weight: 700;
+    
+}
+
+body{
+    margin-top:53px;
+}
+
+.section-header {
+    font-size: 8em;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align:left;
+}
+
+.bread-text-float-left{
+    float:left;
+}
+
+.splash-background-img{
+    background-image:url("bg2blur.png");
+    background-repeat: no-repeat;
+    height:680px;
+    object-fit: cover;
+}
+
+#sales-button{
+    width:20%;
+    min-width:170px;
+    padding:10px 0px 10px 0px;
+    border: solid #ff9d45 4px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+
+.splash-text-headline{
+    width:100%;
+    text-align:left;
+    font-size: 4.5em;
+    font-family: Poppins;
+    font-weight: 600;
+    float:left;
+    word-spacing:5px;
+    letter-spacing: 5px;
+}
+
+#sales-box{
+    float:left;
+    width:65%;
+    height:auto;
+    margin:15% auto auto 5%;
+}
+
+#sales-box > p{
+    margin-top:15px;
+    width:60%;
+    text-align: left;
+    word-spacing:5px;
+    letter-spacing: 2px;
+}
+
+.headline-secondary-color{
+    color:#ff9d45;
+}
+
+p{
+    letter-spacing: 1.65px;
+    word-spacing:1.5px;
+    line-height:1.65;
+    font-family: Poppins;
+    font-weight:400;
+}
+
+.vision-background-img{
+    background-position: center bottom; 
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.potential-background-img{
+    background-image: url("bg2cut.png");
+    background-position: center bottom; 
+    background-repeat: no-repeat;
+}
+
+.vision-card{
+    position: relative;
+    max-width:100%;
+    text-align:left;
+}
+
+.image-circle{
+    border-radius: 50%;
+}
+
+.image-superelips{
+    border-radius: 10px;
+}
+
+.about-container{
+    width:500px;
+    position:relative;
+    margin:auto;
+    height:400px;
+    padding-top:50px;
+}
+
+.about-card{
+    text-align: left;
+    position: relative;
+    width:100%;
+    margin:auto;
+    display: inline-block;
+}
+
+.about-card img{
+    width:25%;
+    max-width:200px;
+    height:200px;
+    float:left;
+    object-fit: cover;
+    margin-right:5%;
+}
+
+.vision-card img{
+    width:100%;
+    height:200px;
+    object-fit: cover;
+}
